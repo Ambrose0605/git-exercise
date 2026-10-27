@@ -1,4 +1,4 @@
 def greet():
-    print("Hello from main branch!")
+    print("Hello from main and feature branch!")
 
 greet()
